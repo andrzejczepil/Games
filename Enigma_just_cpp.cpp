@@ -4,10 +4,6 @@
 #include<cstring>
 #include<sstream>
 #include<locale>
-//Users/andi/Documents/ksiazka.txt
-//Users/andi/Documents/wiadomosc.txt
-//Users/andi/Documents/plik.txt
-//Users/andi/Documents/plik_2.txt
 const int MAX_N=100;
 using namespace std;
 
