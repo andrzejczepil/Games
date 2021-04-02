@@ -1,4 +1,4 @@
-//POP_2017_12_14_projekt_1_Czepil_Andrzej_IBM_1_165431
+
 //Xcode 9.4 LLVM Compiler
 
 #include <stdio.h>
