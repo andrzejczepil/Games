@@ -1,4 +1,4 @@
-//POP_2018_01_18_projekt_2_Czepil_Andrzej_IBM_1_165431
+
 //Xcode 9.4 LLVM Compiler
 
 //szerokosc standardowa 596
