@@ -1,5 +1,4 @@
 
-//POP 2016-12-09 projekt 1 Czepil Andrzej EIT 2 165431
 //xcode 8.0 kompilator wewnetrzny lldb
 
 #include <iostream>
